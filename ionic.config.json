@@ -1,0 +1,7 @@
+{
+  "name": "Driver ID on Purse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
